@@ -1,10 +1,10 @@
 ---
 thumbnail: "/uploads/cadirtls.jpg"
-title: Porta400
+title: RTLS Contact Tracing
 date: 2019-01-03
 categories:
-- photography
-- yellow
+- Hardware
+- System design
 project_bg_color: ''
 project_fg_color: ''
 
